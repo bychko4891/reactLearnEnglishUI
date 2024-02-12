@@ -1,5 +1,6 @@
 import Logo from "./Logo";
-function SideBar() {
+const SideBar = () => {
+
     return (
         <div className="app-menu">
             <div className="navbar-vertical navbar nav-dashboard">

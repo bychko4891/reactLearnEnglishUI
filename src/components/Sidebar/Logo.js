@@ -1,4 +1,5 @@
-function Logo() {
+const Logo = () => {
+
     return (
         <a className="navbar-brand" href="/" >
             <img src="images/logo.png" alt="Learn English" className="reset-styles" />
