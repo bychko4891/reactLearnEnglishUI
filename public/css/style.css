@@ -109,3 +109,54 @@
 .me-1 {
     margin-right: .25rem !important
 }
+
+.ms-auto {
+    margin-left: auto !important
+}
+
+.mb-1 {
+    margin-bottom: .25rem !important
+}
+
+.py-2 {
+    padding-top: .5rem !important;
+    padding-bottom: .5rem !important
+}
+
+.text-center {
+    text-align: center !important
+}
+
+.px-4 {
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important
+}
+
+.pb-0 {
+    padding-bottom: 0 !important
+}
+
+.lh-1 {
+    line-height: 1 !important
+}
+
+.fs-6 {
+    font-size: .75rem !important
+}
+
+.mt-3 {
+    margin-top: 1rem !important
+}
+
+.mb-2 {
+    margin-bottom: .5rem !important
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none
+}
+
+.me-2 {
+    margin-right: .5rem !important
+}

@@ -1,6 +1,7 @@
 import BlackWhiteThemeSwitcher from "./BlackWhiteThemeSwitcher"
 import Notifications from "./Notifications";
 import UserGroup from "./UserGroup";
+import LoginButton from "./LoginButton";
 const RightGroup = () => {
 
     return (
@@ -8,6 +9,7 @@ const RightGroup = () => {
             <BlackWhiteThemeSwitcher />
             <Notifications />
             <UserGroup />
+            {/*<LoginButton />*/}
         </ul>
     );
 }
